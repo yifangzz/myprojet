@@ -1,0 +1,98 @@
+<annotation>
+	<folder>gooooood</folder>
+	<filename>007.jpg</filename>
+	<path>D:\labelImg-master\gooooood\007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>382</ymin>
+			<xmax>277</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>521</ymin>
+			<xmax>267</xmax>
+			<ymax>613</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>214</ymin>
+			<xmax>428</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>417</ymin>
+			<xmax>177</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>267</ymin>
+			<xmax>255</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>339</ymin>
+			<xmax>401</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>451</ymin>
+			<xmax>372</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

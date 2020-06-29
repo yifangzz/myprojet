@@ -1,0 +1,98 @@
+<annotation>
+	<folder>gooooood</folder>
+	<filename>066.jpg</filename>
+	<path>C:\Users\蔡宜芳\Desktop\gooooood\066.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>343</ymin>
+			<xmax>250</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>477</ymin>
+			<xmax>236</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>380</ymin>
+			<xmax>154</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>195</ymin>
+			<xmax>412</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>245</ymin>
+			<xmax>237</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>294</ymin>
+			<xmax>384</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>407</ymin>
+			<xmax>346</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>
